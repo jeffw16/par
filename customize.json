@@ -19,11 +19,11 @@
     }
   },
   "nav": {
-    "about": "About",
+    "about": "&Agrave; propos",
     "faq": "FAQ",
-    "schedule": "Schedule",
+    "schedule": "Horaire",
     "sponsors": "Sponsors",
-    "contact": "Contact"
+    "contact": "Contacter"
   },
   "bg": {
     "top": {
@@ -39,22 +39,22 @@
       "$value": "15.jpg"
     }
   },
-  "date": "August 6-7",
-  "venue": "Make School SF",
-  "btn_sponsor": "Sponsor Us",
+  "date": "6 &agrave; 7 ao&ucirc;t",
+  "venue": "24<sup>e</sup> arrondissement",
+  "btn_sponsor": "Sponsorisez-nous",
   "btn_register": [
-    "Register",
+    "Registre",
     {
       "$type": "link",
       "$value": "https://secondgen.typeform.com/to/u31PN0"
     }
   ],
-  "no_registration_yet": "Registration is not yet open.<br>Please check back in a few weeks!",
+  "no_registration_yet": "L'enregistrement n'est pas encore ouvert<br>S'il vous pla&icirc;t venez ici dans quelques semaines.",
   "section": {
-    "faq": "Frequently Asked Questions",
-    "schedule": "Schedule",
+    "faq": "Foire aux questions",
+    "schedule": "Horaire",
     "our_sponsors": "Sponsors",
-    "be_sponsor": "Sponsor Us"
+    "be_sponsor": "Sponsorisez-nous"
   },
   "about": {
     "first": {
@@ -62,16 +62,15 @@
         "$type": "class",
         "$value": "fa-book"
       },
-      "head": "Learn",
-      "body": "IncubatePAR will be an educational experience for participants of all levels. We will have various workshops from which participants can learn entirely new skills or platforms, and many mentors who will be able to share their knowledge acquired with years of experience."
-    },
+      "head": "Apprendre",
+      "body": "IncubatePAR sera une exp&eacute;rience &eacute;ducative pour les participants de tous les &eacute;tages. Nous aurons diff&eacute;rents ateliers dont les participants peuvent apprendre entièrement nouvelles comp&eacute;tences ou des plates-formes, et de nombreux mentors qui seront en mesure de partager les connaissances acquises avec les ann&eacute;es d'exp&eacute;rience."    },
     "second": {
       "icon": {
         "$type": "class",
         "$value": "fa-lightbulb-o"
       },
-      "head": "Build",
-      "body": "IncubatePAR will foster growth, creating an environment in which participants can create revolutionary products with technology. With 30 hours to hack, teams will have the ability to complete polished products with the potential to disrupt industries."
+      "head": "B&acirc;tir",
+      "body": "IncubatePAR favorisera la croissance, la cr&eacute;ation d'un environnement dans lequel les participants peuvent cr&eacute;er des produits r&eacute;volutionnaires avec la technologie. Avec 30 heures de pirater, les &eacute;quipes auront la possibilit&eacute; de compl&eacute;ter les produits polis avec le potentiel de perturber les industries."
     },
     "third": {
       "icon": {
@@ -79,21 +78,21 @@
         "$value": "fa-users"
       },
       "head": "Connect",
-      "body": "Because IncubatePAR is an entrepreneurship hackathon, participants will have diverse skillsets. Designers, developers, and budding entrepreneurs will come together to network and create amazing products."
+      "body": "Parce que IncubatePAR est un hackathon esprit d'entreprise, les participants ont divers niveaux de comp&eacute;tences concepteurs, les d&eacute;veloppeurs et les entrepreneurs en herbe vont se r&eacute;unir en r&eacute;seau et cr&eacute;er des produits &eacute;tonnants."
     }
   },
   "countup": {
     "attendees": {
       "number": 250,
-      "unit": "ATTENDEES"
+      "unit": "VISITEURS"
     },
     "hours": {
       "number": 30,
-      "unit": "HOURS"
+      "unit": "HEURES"
     },
     "opportunity": {
       "number": 1,
-      "unit": "LIFETIME OPPORTUNITY"
+      "unit": "OPPORTUNITE DE VOTRE VIE"
     }
   },
   "faq": {
@@ -103,16 +102,16 @@
         "$type": "array_cols",
         "$value": [
           {
-            "question": "Who can apply?",
-            "answer": "Any high school or college student can apply to participate in IncubatePAR, regardless of experience with programming. Because it is an entrepreneurship event, we are looking for a diverse pool of participants in terms of skillsets."
+            "question": "Qui peut postuler?",
+            "answer": "Toute &eacute;tudiants du lyc&eacute;e ou de l'universit&eacute; peuvent demander à participer à IncubatePAR, ind&eacute;pendamment de l'exp&eacute;rience avec la programmation Parce qu'il est un &eacute;v&eacute;nement de l'esprit d'entreprise, nous recherchons un bassin diversifi&eacute; de participants en termes de niveaux de comp&eacute;tences."
           },
           {
-            "question": "How do I apply?",
-            "answer": "Just fill out the registration form! More info will be sent out later."
+            "question": "Comment puis-je postuler?",
+            "answer": "Vous suffissez de remplir le formulaire d'enregistrement. Plus d'informations seront envoy&eacute;es plus tard!"
           },
           {
-            "question": "What is the application deadline?",
-            "answer": "This will be decided later. The sooner you apply, the better!"
+            "question": "Quelle est la date limite d'enregistrement?",
+            "answer": "Ce sera d&eacute;cid&eacute; plus tard. Le plus t&ocirc;t vous appliquez, le meilleur!"
           }
         ],
         "$options": {
@@ -197,37 +196,37 @@
         "$type": "array_rows",
         "$value": [
           {
-            "time": "9AM",
+            "time": "9h",
             "event": "Check In",
             "place": "Lobby"
           },
           {
-            "time": "10AM",
+            "time": "10h",
             "event": "Welcome + Keynotes",
             "place": "Cafeteria"
           },
           {
-            "time": "11AM",
+            "time": "11h",
             "event": "Demos",
             "place": "Cafeteria"
           },
           {
-            "time": "12PM",
+            "time": "12h",
             "event": "Hacking Begins",
             "place": "Band Hall"
           },
           {
-            "time": "1PM",
+            "time": "13h",
             "event": "Lunch",
             "place": "Lobby"
           },
           {
-            "time": "2PM",
+            "time": "14h",
             "event": "Workshops",
             "place": "Band Hall"
           },
           {
-            "time": "7PM",
+            "time": "19h",
             "event": "Dinner",
             "place": "Lobby"
           }
@@ -240,43 +239,43 @@
         "$type": "array_rows",
         "$value": [
           {
-            "time": "12AM",
+            "time": "0h",
             "event": "Midnight Snack",
             "place": "Band Hall"
           },
           {
-            "time": "3AM",
+            "time": "3h",
             "event": "HypeFest",
             "place": "Band Hall"
           },
           {
-            "time": "5AM",
+            "time": "5h",
             "event": "Surprise",
             "place": "Lobby"
           },
           {
-            "time": "7AM",
-            "event": "Breakfast",
+            "time": "7h",
+            "event": "Petit-d&eacute;jeuner",
             "place": "Lobby"
           },
           {
-            "time": "12PM",
-            "event": "Lunch & Hacking Ends",
+            "time": "12h",
+            "event": "D&eacute;jeuner et pirater finit",
             "place": "Lobby"
           },
           {
-            "time": "1PM",
+            "time": "13h",
             "event": "Hack Demo Fair",
             "place": "Lobby"
           },
           {
-            "time": "2PM",
+            "time": "14h",
             "event": "Closing Ceremony",
             "place": "Auditorium"
           },
           {
-            "time": "3PM",
-            "event": "Hackathon Ends",
+            "time": "15h",
+            "event": "Hackathon finit",
             "place": "Auditorium"
           }
         ]
